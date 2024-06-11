@@ -1,0 +1,19 @@
+.link:active, .logo:active {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Тень при нажатии */
+  }
+.proximaNova {
+    font-family: 'Proxima Nova', sans-serif;
+  }
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('/path/to/ProximaNova-Regular.ttf') format('truetype'); /* Замените '/path/to/ProximaNova-Regular.ttf' на реальный путь к файлу шрифта */
+    font-weight: normal;
+    font-style: normal;
+  }
+.logo {
+   font-family: 'Proxima Nova', sans-serif;
+}
+.link {
+	font-family: "LXGW WenKai TC", cursive;;	
+}
+  
